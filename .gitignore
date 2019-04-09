@@ -1,0 +1,7 @@
+*.pyc
+*.png
+*.csv
+*.tsv
+*.tdms
+*.tdms_index
+.vscode/
